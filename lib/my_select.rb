@@ -8,5 +8,5 @@ def my_select(collection)
    end
    i += 1
  end
- new/-collection
+ new_collection
 end
